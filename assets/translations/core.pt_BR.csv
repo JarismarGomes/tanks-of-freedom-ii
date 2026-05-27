@@ -113,7 +113,7 @@ TR_NOBLE,Nobre
 TR_PRINCE,Príncipe
 TR_WARLORD,Senhor de Guerra
 TR_DEEP_STRIKE,Ataque Profundo
-TR_HARD_ARMOUR,Armadura Revestida
+TR_HARD_ARMOUR,Blindagem Revestida
 TR_INFILTRATION,Infiltração
 TR_INSPIRE,Inspirar
 TR_PREC_STRIKE,Ataque de Precisão
@@ -162,7 +162,7 @@ TR_PASS_MENTOR_DESC,"Um grande líder, que passa tempo com seus soldados, para p
 TR_PASS_INTIM,Intimidar
 TR_PASS_INTIM_DESC,"Uma personalidade forte e bruta, que influencia os soldados sob seu comando. Ao tomar uma construção, a Infantaria perde todo o PA para intimidar a equipe ao invés de serem consumidas."
 TR_PASS_HIGH_MOR,Moral alta
-TR_PASS_HIGH_MOR_DESC,"Um líder inspirador, um exemple para todos os soldados. Todas as unidades do tipo Infantaria tem suas armaduras e ataque aumentados por 1."
+TR_PASS_HIGH_MOR_DESC,"Um líder inspirador, um exemple para todos os soldados. Todas as unidades do tipo Infantaria tem suas blindagens e ataques aumentados por 1."
 TR_PASS_EFFIC,Eficiente
 TR_PASS_EFFIC_DESC,Anos de experiencia com engenharia permitem uma melhor gestão da fábrica. Todos os veículos da fábrica custam 10PA a menos para serem produzidos.
 TR_PASS_AIR_SUP,Superioridade aérea
@@ -173,7 +173,7 @@ TR_PROMOTE_DESC,"Promove uma unidade, dando-a +1 de nível."
 TR_PREC_STRIKE_DESC,"Solicita uma ataque de precisão aéreo. Inflige 5 de dano ao tile alvo, e quadrados adjacentes. Pode acertar unidades aliadas."
 TR_INSPIRE_DESC,Inspira uma unidade até 2 quadrados de distância. Restaura todo o MP e permite que ela ataque e use sua habilidade novamente.
 TR_INFILTRATION_DESC,"Infiltra no território inimigo pulando instantaneamente em um quadrado, "
-TR_HARD_ARMOUR_DESC,Temporariamente reveste a armadura de unidades até 2 quadrados de distância por 1 ponto.
+TR_HARD_ARMOUR_DESC,Temporariamente reveste a blindagem de unidades até 2 quadrados de distância por 1 ponto.
 TR_DEEP_STRIKE_DESC,"Chama um soldado paraquedista, até 2 quadrados de distância. Ganha uma unidade de Infantaria grátis."
 TR_TEAM,Time
 TR_NEW_SAVE,Criar novo save.
